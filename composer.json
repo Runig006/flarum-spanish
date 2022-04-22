@@ -4,6 +4,7 @@
     "description": "Spanish Language Pack.",
     "keywords": ["extension", "flarum", "language", "locale", "spanish", "translation"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "FlarumES",
