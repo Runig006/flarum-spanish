@@ -39,24 +39,24 @@ clarkwinkelmann-catch-the-fish:
             submit-place-random: Dejar que se oculte automaticamente
 
         edit-round:
-            name: Name
-            name-help: The public name for this round, will be shown in banner and in ranking
-            starts-at: Start time
-            ends-at: End time
-            starting-pack: Starting Pack
-            starting-pack-help: Will include a few fishes to get you started in no time
-            create: Create round
-            save: Save round
-            delete: Delete round
-            delete-confirmation: Delete round "{name}" ?
+            name: Nombre
+            name-help: Nombre publico de la ronda
+            starts-at: Fecha inicio
+            ends-at: Fecha fin
+            starting-pack: Pack Inicial
+            starting-pack-help: Incluye un par de peces genericos
+            create: Crear Ronda
+            save: Guardar Ronda
+            delete: Borrar Ronda
+            delete-confirmation: Borrar Ronda "{name}" ?
 
         edit-fish:
-            name: Name
-            name-help: The current name of the fish. Can be edited by players if they have the permission to rename fishes
-            create: Create fish
-            save: Save fish
-            delete: Delete fish
-            delete-confirmation: Delete fish "{name}" ?
+            name: Nombre
+            name-help: Nombre actual del capturable
+            create: Crear capturable
+            save: Guardar capturable
+            delete: Borrar capturable
+            delete-confirmation: Borrar capturable "{name}" ?
 
         moving-fish:
             login: Haz login para entrar en la captura
