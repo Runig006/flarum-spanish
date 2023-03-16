@@ -2,9 +2,14 @@
   <a href="https://github.com/FlarumES/lang-spanish">
     <img src="https://raw.githubusercontent.com/FlarumES/flarum.es/main/img/flarumesiso.png" width="10%" alt="FlarumES Logo">
   </a>
+</p>
 
-  <h3 align="center">Spanish Language Pack for <a href="https://flarum.org">Flarum</a></h3>
+<h2 align="center">Spanish Language Pack for <a href="https://flarum.org">Flarum</a></h2>
 
+ <div align="center">
+<strong>🚨 Para la versión en Español de esta guía dirígete a la comunidad Flarum en Español haciendo clic <a href="https://flarum.es/d/53-spanish-language-pack-by-flarum-en-espanol">aquí</a></strong>
+</div>
+<br>
   <p align="center">
     Spanish Language Pack to localise the Flarum software, including its extensions and libraries by the FlarumES Community.
     <br />
@@ -18,17 +23,20 @@
     <a href="https://github.com/flarum-lang/spanish/issues">Request Feature</a>
   </p>
 
-  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=Github) ![](https://img.shields.io/packagist/v/flarumes/lang-spanish.svg?style=flat-square&logo=packagist)  ![](https://shields.io/badge/-Extiverse-f9fafc?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABaRJREFUWMPtlmuMXlUVhp+19rnMTL+ZaafSqp0aSQOaQDEppU06KAkmJsRGAsVQik21sRRbRdqOpY0XLtViiRTbxkSqtoKXQQSCl0QCFuRHDQQNjVU0bSGiOGhLO9/cv+/bl+WPUZqhzDjhjyZ2/Tnn/Njnfc7a633PhrP1/17y3xC987B/6wBfX+9BEZTMCowmIgnb8JV8qsIOaAUy4OSUAPZc4xGhNTk+YAWXUTLLStqtJFJStYK/UPCYFTxPwm/anE8GkAFbgX8AeycF2L/So0LuI1f6wA3B6Eo5LZRgJfz7+q/7E1bwGDl7tJfn4rug+9OnQb76jCedA9rHVZZzKcr9wB8mBOhZ7RGhzUdu8YH1PtLuE8Op5JC08jxNVC3HmaMzKYssZ56VZBS8ZDm3WjM94ondN+bsOODJTiD+nSynYK3l3CLGs1sW5mRvJv7IWo8ILT6wTYV1qqhmPOGm05Odz6FsNsOSEIkonsxXmVUfpisYKyzxHmCXeBz7ue+uhz0MUIR21kpgkwnb9CTP2swxLfdG8Z+v9wzVoMxZD2w1kNTE/vA+7pRL+JPmBAsEIgMEBjGGXBPVpgpHLXE4RuYinI/jEhbyGzJGUO4QpRthv+TswhG3vH9se87ogFOY2cqFIbIuGYXk9NQWsDPOZlRGUeCUCP1FklAvjKxmmEKK0jKtjVEZYseo58uWmA9sx9MQ5TIL7BPHDgZobP7w6dkYB/DkRs9oA3LlOlXOU3jRz+He+lwGsxEyhD5EqikzW3XtePZ9+/xIMHqntWK+n+/7yB2W6CJiBO7H8XmG6Nv80fEO0XEPApUm2pzS5QSkiUdfW8wRraMmjJjSnzKzG5edabMXnoTh1wjVV2mJNRYQcASCBL5J4HMyxPE3ip/RAVUQONcpFyQjWDO/SwWJUZIpIyakYsaZc3vPRo8EXDzJUivYSslihEGJ7LTIPTJMf/en3jwbxr3NjfWj06BdjWqs8GeJYEISCAis6Trt3F2f9GMZMMQ8Cj5DYKU4OixyRCK3WeJhGaKxadPEKfk6wG+/4BGhw0euxsij4i2jZmCmGDZ+4e5rPfQzg4IVlNxgjoskEizyYyLb9SUOpU7Y+KXJIzoD+P3tHhHO8ZG7nXF9UnBGS1lnesxJeQ01GZuX71zvEaHiI1d6Y3WKXGqRgshRIrsI/EA81Zv3/ud/A4Ae3e5pLmhxyjanLFfhERVeUaG9rDGv3kL0LcTaLHT2o8xoLljllIdU+JYKl0tiiMhuiVy9aA/fkEGqG3ZOTfz1DojwcRVWO+GhqGwUYY8q1+Serrcf5Sftx5ibH+eKaFyelEWaKJ0ykIwHU+C7NDgoDfwSctg7Ze0xgJaSjhC5zoyqwd2a+LsKv1JhmYssPfc52kODC3zg3SaIKqfU8T1NPOCMg1lO7dXNgTI5Vv2oyoJ10zQ18zEyhIKfETlFARtun8AFInQ4pTMZqsZKp6zIHBcapJRozxJLkxAl58XUzIF6GwcGLuLg8CL6XC+JBnnZyIhtpCUXT4uji1kmkbvM0UFiDcZ9k3bACa+Y8JQKnxDhsypjeaCJhipBE6U6hmOFb/cu4aehlZrWKYojzEw59dhGo/Fe6s27aarNZ7kEvmjKbBy/wPFLbOKvB5C/fc0jwpyQuCJEOn0gNSJ9IfDXRuBtIXGrD3T6RG/N8fhohScG38Ef6zPotwbRHaNiL7MwjPCR5PgQJRUreZqCdRgv3Lxn8oGc8DzwzFZPS4EM1vhgjNzmI0t8RHxk0Cde9okTPuC8Z473zPWRIiqjVvAABdtJHJMMbtr7FgEAfr3FU/fglM4QuSpElvnIxT5S8QF8BB8wHznuA08F48GU8bgYwzf1TM2KUzoTPt3tOTkIlSamh8T8EDjPR8pGhBDo95HDIXJEhPqaH049A87W2fqfqH8CWLWbdNxZC+gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDMtMTNUMDg6MzY6MzkrMDA6MDDUTBjxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAzLTEzVDA4OjM2OjM5KzAwOjAwpRGgTQAAAEZ0RVh0c29mdHdhcmUASW1hZ2VNYWdpY2sgNi43LjgtOSAyMDE0LTA1LTEyIFExNiBodHRwOi8vd3d3LmltYWdlbWFnaWNrLm9yZ9yG7QAAAAAYdEVYdFRodW1iOjpEb2N1bWVudDo6UGFnZXMAMaf/uy8AAAAYdEVYdFRodW1iOjpJbWFnZTo6aGVpZ2h0ADE5Mg8AcoUAAAAXdEVYdFRodW1iOjpJbWFnZTo6V2lkdGgAMTky06whCAAAABl0RVh0VGh1bWI6Ok1pbWV0eXBlAGltYWdlL3BuZz+yVk4AAAAXdEVYdFRodW1iOjpNVGltZQAxNTg0MDg4NTk5RzneKAAAAA90RVh0VGh1bWI6OlNpemUAMEJClKI+7AAAAFZ0RVh0VGh1bWI6OlVSSQBmaWxlOi8vL21udGxvZy9mYXZpY29ucy8yMDIwLTAzLTEzL2MzNTcxY2IxYjdiMTNhZGYzY2Q3YzgyM2M5MjE2MDQ1Lmljby5wbmfx9XI2AAAAAElFTkSuQmCC)
+ <div align="center">
 
+![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) 
+![](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=Github) 
+![](https://img.shields.io/packagist/v/flarumes/lang-spanish.svg?style=flat-square&logo=packagist)  
+![](https://shields.io/badge/-Extiverse-f9fafc?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABaRJREFUWMPtlmuMXlUVhp+19rnMTL+ZaafSqp0aSQOaQDEppU06KAkmJsRGAsVQik21sRRbRdqOpY0XLtViiRTbxkSqtoKXQQSCl0QCFuRHDQQNjVU0bSGiOGhLO9/cv+/bl+WPUZqhzDjhjyZ2/Tnn/Njnfc7a633PhrP1/17y3xC987B/6wBfX+9BEZTMCowmIgnb8JV8qsIOaAUy4OSUAPZc4xGhNTk+YAWXUTLLStqtJFJStYK/UPCYFTxPwm/anE8GkAFbgX8AeycF2L/So0LuI1f6wA3B6Eo5LZRgJfz7+q/7E1bwGDl7tJfn4rug+9OnQb76jCedA9rHVZZzKcr9wB8mBOhZ7RGhzUdu8YH1PtLuE8Op5JC08jxNVC3HmaMzKYssZ56VZBS8ZDm3WjM94ondN+bsOODJTiD+nSynYK3l3CLGs1sW5mRvJv7IWo8ILT6wTYV1qqhmPOGm05Odz6FsNsOSEIkonsxXmVUfpisYKyzxHmCXeBz7ue+uhz0MUIR21kpgkwnb9CTP2swxLfdG8Z+v9wzVoMxZD2w1kNTE/vA+7pRL+JPmBAsEIgMEBjGGXBPVpgpHLXE4RuYinI/jEhbyGzJGUO4QpRthv+TswhG3vH9se87ogFOY2cqFIbIuGYXk9NQWsDPOZlRGUeCUCP1FklAvjKxmmEKK0jKtjVEZYseo58uWmA9sx9MQ5TIL7BPHDgZobP7w6dkYB/DkRs9oA3LlOlXOU3jRz+He+lwGsxEyhD5EqikzW3XtePZ9+/xIMHqntWK+n+/7yB2W6CJiBO7H8XmG6Nv80fEO0XEPApUm2pzS5QSkiUdfW8wRraMmjJjSnzKzG5edabMXnoTh1wjVV2mJNRYQcASCBL5J4HMyxPE3ip/RAVUQONcpFyQjWDO/SwWJUZIpIyakYsaZc3vPRo8EXDzJUivYSslihEGJ7LTIPTJMf/en3jwbxr3NjfWj06BdjWqs8GeJYEISCAis6Trt3F2f9GMZMMQ8Cj5DYKU4OixyRCK3WeJhGaKxadPEKfk6wG+/4BGhw0euxsij4i2jZmCmGDZ+4e5rPfQzg4IVlNxgjoskEizyYyLb9SUOpU7Y+KXJIzoD+P3tHhHO8ZG7nXF9UnBGS1lnesxJeQ01GZuX71zvEaHiI1d6Y3WKXGqRgshRIrsI/EA81Zv3/ud/A4Ae3e5pLmhxyjanLFfhERVeUaG9rDGv3kL0LcTaLHT2o8xoLljllIdU+JYKl0tiiMhuiVy9aA/fkEGqG3ZOTfz1DojwcRVWO+GhqGwUYY8q1+Serrcf5Sftx5ibH+eKaFyelEWaKJ0ykIwHU+C7NDgoDfwSctg7Ze0xgJaSjhC5zoyqwd2a+LsKv1JhmYssPfc52kODC3zg3SaIKqfU8T1NPOCMg1lO7dXNgTI5Vv2oyoJ10zQ18zEyhIKfETlFARtun8AFInQ4pTMZqsZKp6zIHBcapJRozxJLkxAl58XUzIF6GwcGLuLg8CL6XC+JBnnZyIhtpCUXT4uji1kmkbvM0UFiDcZ9k3bACa+Y8JQKnxDhsypjeaCJhipBE6U6hmOFb/cu4aehlZrWKYojzEw59dhGo/Fe6s27aarNZ7kEvmjKbBy/wPFLbOKvB5C/fc0jwpyQuCJEOn0gNSJ9IfDXRuBtIXGrD3T6RG/N8fhohScG38Ef6zPotwbRHaNiL7MwjPCR5PgQJRUreZqCdRgv3Lxn8oGc8DzwzFZPS4EM1vhgjNzmI0t8RHxk0Cde9okTPuC8Z473zPWRIiqjVvAABdtJHJMMbtr7FgEAfr3FU/fglM4QuSpElvnIxT5S8QF8BB8wHznuA08F48GU8bgYwzf1TM2KUzoTPt3tOTkIlSamh8T8EDjPR8pGhBDo95HDIXJEhPqaH049A87W2fqfqH8CWLWbdNxZC+gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDMtMTNUMDg6MzY6MzkrMDA6MDDUTBjxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAzLTEzVDA4OjM2OjM5KzAwOjAwpRGgTQAAAEZ0RVh0c29mdHdhcmUASW1hZ2VNYWdpY2sgNi43LjgtOSAyMDE0LTA1LTEyIFExNiBodHRwOi8vd3d3LmltYWdlbWFnaWNrLm9yZ9yG7QAAAAAYdEVYdFRodW1iOjpEb2N1bWVudDo6UGFnZXMAMaf/uy8AAAAYdEVYdFRodW1iOjpJbWFnZTo6aGVpZ2h0ADE5Mg8AcoUAAAAXdEVYdFRodW1iOjpJbWFnZTo6V2lkdGgAMTky06whCAAAABl0RVh0VGh1bWI6Ok1pbWV0eXBlAGltYWdlL3BuZz+yVk4AAAAXdEVYdFRodW1iOjpNVGltZQAxNTg0MDg4NTk5RzneKAAAAA90RVh0VGh1bWI6OlNpemUAMEJClKI+7AAAAFZ0RVh0VGh1bWI6OlVSSQBmaWxlOi8vL21udGxvZy9mYXZpY29ucy8yMDIwLTAzLTEzL2MzNTcxY2IxYjdiMTNhZGYzY2Q3YzgyM2M5MjE2MDQ1Lmljby5wbmfx9XI2AAAAAElFTkSuQmCC)
 
-**🚨 Para la versión en Español de esta guía dirígete a la comunidad Flarum en Español haciendo clic [aquí](https://flarum.es/d/53-spanish-language-pack-by-flarum-en-espanol)**
-</p>
+</div>
 
 ## About The Project
 
 Spanish language pack for Flarum Software, includes its extensions and libraries in two Spanish language registers; **Formal Spanish** and **Informal Spanish**, both selectable from the extension administrator dashboard.
 
-This extension is maintained by @jslirola and @Darkle members of the verified [Flarum en Español](https://flarum.es) community.
+This extension is maintained by [@jslirola]https://flarum.es/u/jslirola and [@Darkle]https://flarum.es/u/Darkle members of the verified [Flarum en Español](https://flarum.es) community.
 
 ## Getting Started
 
@@ -37,8 +45,9 @@ In order to install the Spanish language extension package, you will need to fol
 
 ### ⚠️ Minimum Requirements
 
-* <a href="https://flarum.org">Flarum</a> 1.0.0
-
+   ```
+flarum/core: "^1.2.0"
+   ```
 
 ### 📥 Installation
 
@@ -105,6 +114,8 @@ You can contribute to the language pack on this <a href="https://weblate.rob006.
 | --- | --- |
 | [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-best-answer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-best-answer/es/) |
 | [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-discussion-language/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-discussion-language/es/) |
+| [`fof/disposable-emails`](https://github.com/FriendsOfFlarum/disposable-emails) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-disposable-emails/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-disposable-emails/es/) |
+| [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-follow-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-follow-tags/es/) |
 | [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-forum-statistics-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-forum-statistics-widget/es/) |
 | [`fof/links`](https://github.com/FriendsOfFlarum/links) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-links/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-links/es/) |
 | [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-masquerade/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-masquerade/es/) |
@@ -113,12 +124,15 @@ You can contribute to the language pack on this <a href="https://weblate.rob006.
 | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-pages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-pages/es/) |
 | [`fof/polls`](https://github.com/FriendsOfFlarum/polls) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-polls/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-polls/es/) |
 | [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-reactions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-reactions/es/) |
+| [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-recaptcha/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-recaptcha/es/) |
 | [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-share-social/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-share-social/es/) |
 | [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-socialprofile/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-socialprofile/es/) |
 | [`fof/spamblock`](https://github.com/FriendsOfFlarum/spamblock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-spamblock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-spamblock/es/) |
 | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-terms/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-terms/es/) |
+| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/es/) |
 | [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-user-bio/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-user-bio/es/) |
 | [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-user-directory/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-user-directory/es/) |
+| [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/fof-webhooks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-webhooks/es/) |
 
 <!-- fof-extensions-list-stop -->
 <!-- various-extensions-list-start -->
@@ -138,9 +152,19 @@ You can contribute to the language pack on this <a href="https://weblate.rob006.
 | [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/antoinefr-online/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-online/es/) |
 | [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-auto-moderator) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-auto-moderator/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-auto-moderator/es/) |
 | [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-categories/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-categories/es/) |
+| [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-checklist/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-checklist/es/) |
+| [`askvortsov/flarum-discussion-templates`](https://github.com/askvortsov1/flarum-discussion-templates) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-discussion-templates/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-discussion-templates/es/) |
+| [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-help-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags/es/) |
+| [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-markdown-tables/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-markdown-tables/es/) |
+| [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-moderator-warnings/es/) |
+| [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-pwa/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-pwa/es/) |
+| [`askvortsov/flarum-rich-text`](https://github.com/askvortsov1/flarum-rich-text) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-rich-text/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-rich-text/es/) |
+| [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/askvortsov-saml/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-saml/es/) |
+| [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/es/) |
 | [`clarkwinkelmann/flarum-ext-emojionearea`](https://github.com/clarkwinkelmann/flarum-ext-emojionearea) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-emojionearea/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-emojionearea/es/) |
 | [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-first-post-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-first-post-approval/es/) |
 | [`clarkwinkelmann/flarum-ext-group-list`](https://github.com/clarkwinkelmann/flarum-ext-group-list) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-group-list/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-group-list/es/) |
+| [`clarkwinkelmann/flarum-ext-post-stream-search`](https://github.com/clarkwinkelmann/flarum-ext-post-stream-search) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-post-stream-search/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-post-stream-search/es/) |
 | [`clarkwinkelmann/flarum-ext-predefined-avatars`](https://github.com/clarkwinkelmann/flarum-ext-predefined-avatars) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/clarkwinkelmann-predefined-avatars/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-predefined-avatars/es/) |
 | [`dem13n/topic-starter-label`](https://github.com/Dem13n/topic-starter-label) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/dem13n-topic-starter-label/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/dem13n-topic-starter-label/es/) |
 | [`flarumite/simple-spoilers`](https://github.com/flarumite/simple-spoilers) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/flarumite-simple-spoilers/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-spoilers/es/) |
@@ -151,14 +175,19 @@ You can contribute to the language pack on this <a href="https://weblate.rob006.
 | [`ianm/synopsis`](https://github.com/imorland/synopsis) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/ianm-synopsis/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/ianm-synopsis/es/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/es/) |
 | [`katosdev/signature`](https://github.com/katosdev/signature) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/katosdev-signature/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/katosdev-signature/es/) |
+| [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/kilowhat-audit-free/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-free/es/) |
 | [`kyrne/whisper`](https://github.com/KyrneDev/whisper) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/kyrne-whisper/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kyrne-whisper/es/) |
 | [`matteocontrini/flarum-imgur-upload`](https://github.com/matteocontrini/flarum-imgur-upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/matteocontrini-imgur-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/matteocontrini-imgur-upload/es/) |
+| [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/michaelbelgium-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/michaelbelgium-discussion-views/es/) |
+| [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/sycho-move-posts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-move-posts/es/) |
 | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/sycho-profile-cover/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-profile-cover/es/) |
+| [`the-turk/flarum-nodp`](https://github.com/the-turk/flarum-nodp) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/the-turk-nodp/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-nodp/es/) |
 | [`the-turk/flarum-pallet-theme`](https://github.com/the-turk/flarum-pallet-theme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/the-turk-pallet-theme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-pallet-theme/es/) |
 | [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/the-turk-stickiest/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-stickiest/es/) |
 | [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/es/) |
 | [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/es/) |
 | [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/es/) |
+| [`ziiven/flarum-money-leaderboard`](https://github.com/Ziiven/flarum-money-leaderboard) | [![Translation status](https://weblate.rob006.net/widgets/flarum/es/ziiven-money-leaderboard/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/ziiven-money-leaderboard/es/) |
 
 <!-- various-extensions-list-stop -->
 
