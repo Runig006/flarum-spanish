@@ -7,7 +7,7 @@ antoinefr-money:
     permissions:
       edit_money_label: 'Editar dinero'
     settings:
-      moneyfordiscussion: 'Dinero entregado por una nueva discusión'
+      moneyfordiscussion: 'Dinero entregado por un nuevo hilo'
       moneyforpost: 'Dinero entregado por un nuevo post'
       moneyname: 'Nombre del dinero (por ejemplo: [money] puntos)'
       noshowzero: 'No mostrar si el valor es cero'

@@ -15,7 +15,7 @@ askvortsov-categories:
     help:
       child_bare_icon: '¿Deberían mostrarse los iconos de las categorías secundarias sin un fondo circular?'
       full_page_desktop: '¿Debería colapsarse el menú de navegación de la barra lateral en una fila (como en la página de etiquetas)? Esto también ocultará los widgets (como Friends of Flarum Forum Statistics) de la barra de navegación de la página de categorías.'
-      small_forum_optimized: 'Esto proporcionará recuentos de discusiones / mensajes más precisos, pero ralentizará drásticamente los foros medianos y grandes.'
+      small_forum_optimized: 'Esto proporcionará recuentos de hilos / mensajes más precisos, pero ralentizará drásticamente los foros medianos y grandes.'
     labels:
       child_bare_icon: 'Iconos en categorías secundarias?'
       compact_mobile_mode: 'Modo móvil compacto'
@@ -23,7 +23,7 @@ askvortsov-categories:
       keep_tags_nav: '¿Mantener el enlace de la página de etiquetas en la barra lateral de navegación?'
       parent_remove_description: '¿Ocultar descripciones de etiquetas principales?'
       parent_remove_icon: '¿Ocultar iconos de etiquetas principales?'
-      parent_remove_last_discussion: '¿Ocultar las discusiones más recientes de etiquetas principales?'
+      parent_remove_last_discussion: '¿Ocultar los hilos más recientes de etiquetas principales?'
       parent_remove_stats: '¿Ocultar estadísticas de etiquetas principales?'
       small_forum_optimized: '¿Optimizar para foros pequeños?'
     title: 'Configuración de categorías'
@@ -36,9 +36,9 @@ askvortsov-categories:
     index:
       categories_link: '=> askvortsov-categories.ref.categories'
     last_discussion_widget:
-      no_discussions: 'No hay discusiones (¡aún!)'
+      no_discussions: 'No hay hilos (¡aún!)'
     stat-widgets:
-      discussion_label: Discusiones
+      discussion_label: hilos
       post_label: Mensajes
   ref:
     categories: Categorías

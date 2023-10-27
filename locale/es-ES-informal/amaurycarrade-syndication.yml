@@ -16,20 +16,20 @@ amaurycarrade-syndication:
       title: 'Configuración de Syndication'
   forum:
     autodiscovery:
-      discussion_last_posts: 'Esta discusión'
+      discussion_last_posts: 'Este hilo'
       forum_activity: 'Actividad del foro'
-      forum_new_discussions: 'Nuevas discusiones del foro'
+      forum_new_discussions: 'Nuevos hilos del foro'
       tag_activity: 'Actividad para la etiqueta {tag}'
-      tag_new_discussions: 'Discusiones en la etiqueta {tag}'
+      tag_new_discussions: 'Jilos en la etiqueta {tag}'
     feeds:
       titles:
-        discussion_subtitle: 'Últimos mensajes en esta discusión'
+        discussion_subtitle: 'Últimos mensajes en esto hilo'
         discussion_title: '{discussion_name}'
-        main_d_subtitle: 'Las discusiones más recientes del foro'
-        main_d_title: 'Nuevas discusiones en {forum_name}'
+        main_d_subtitle: 'Los hilos más recientes del foro'
+        main_d_title: 'Nuevos hilos en {forum_name}'
         main_subtitle: 'Últimos mensajes en el foro'
         main_title: '{forum_name}'
-        tag_d_subtitle: 'Las discusiones más recientes en la etiqueta {tag}'
-        tag_d_title: 'Nuevas discusiones en la etiqueta {tag}'
+        tag_d_subtitle: 'Los hilos más recientes en la etiqueta {tag}'
+        tag_d_title: 'Nuevos hilos en la etiqueta {tag}'
         tag_subtitle: 'Últimos mensajes en la etiqueta {tag}'
         tag_title: 'Actividad en la etiqueta {tag}'
