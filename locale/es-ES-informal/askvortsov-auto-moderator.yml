@@ -51,9 +51,9 @@ askvortsov-auto-moderator:
       regex: 'Regex para correos electrónicos válidos (sin barras)'
     metric_drivers:
       best_answers: 'Mejores respuestas'
-      discussions_entered: 'Discusiones introducidas'
-      discussions_participated: 'Discusiones Participadas'
-      discussions_started: 'Discusiones iniciadas'
+      discussions_entered: 'Hilos introducidaos'
+      discussions_participated: 'Hilos participados'
+      discussions_started: 'Hilos iniciadas'
       likes_given: 'Me gusta dados'
       likes_received: 'Me gusta recibidos'
       moderator_strikes: 'Advertencias de los moderadores'

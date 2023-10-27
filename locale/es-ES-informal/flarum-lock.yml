@@ -5,7 +5,7 @@
 flarum-lock:
   admin:
     permissions:
-      lock_discussions_label: 'Cerrar discusiones'
+      lock_discussions_label: 'Cerrar hilos'
   forum:
     badge:
       locked_tooltip: Cerrada
@@ -15,7 +15,7 @@ flarum-lock:
     notifications:
       discussion_locked_text: '{username} cerró'
     post_stream:
-      discussion_locked_text: '{username} cerró la discusión.'
-      discussion_unlocked_text: '{username} abrió la discusión.'
+      discussion_locked_text: '{username} cerró el hilo.'
+      discussion_unlocked_text: '{username} abrió el hilo.'
     settings:
-      notify_discussion_locked_label: 'Alguien cerró una discusión que tú creaste'
+      notify_discussion_locked_label: 'Alguien cerró un hilo que tú creaste'

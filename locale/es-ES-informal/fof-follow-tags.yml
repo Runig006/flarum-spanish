@@ -13,20 +13,20 @@ fof-follow-tags:
     notifications:
       new_discussion_tag_text: '{username} cambió el tema'
       new_discussion_text: '{username} inició'
-      new_post_text: '{username} ha creado una discusión'
+      new_post_text: '{username} ha creado un hilo'
     settings:
-      notify_new_discussion_label: 'Alguien crea una discusión en una etiqueta que estoy siguiendo'
-      notify_new_discussion_tag_label: 'Alguien vuelve a etiquetar una discusión con una etiqueta que estoy siguiendo'
+      notify_new_discussion_label: 'Alguien crea un hilo en una etiqueta que estoy siguiendo'
+      notify_new_discussion_tag_label: 'Alguien vuelve a etiquetar un hilo con una etiqueta que estoy siguiendo'
       notify_new_post_label: 'Alguien publica en una etiqueta que estoy siguiendo'
     sub_controls:
-      following_text: 'Recibir notificaciones de todas las nuevas discusiones.'
-      hiding_text: 'Ocultar discusiones de la página Todas las discusiones.'
+      following_text: 'Recibir notificaciones de todas los nuevos hilos.'
+      hiding_text: 'Ocultar hilos de la página Todas los hilos.'
       ignoring_text: 'Nunca recibir notificaciones.'
-      lurking_text: 'Recibir notificaciones de todas las nuevas discusiones y respuestas.'
+      lurking_text: 'Recibir notificaciones de todas los nuevas hilos y respuestas.'
       not_following_button: 'No seguir'
       not_following_text: 'Ser notificado solo cuando me @mencionan.'
-      notify_alert_tooltip: 'Reciba una notificación del foro cuando haya nuevas discusiones o publicaciones'
-      notify_email_tooltip: 'Recibir un correo electrónico cuando haya nuevas discusiones o publicaciones'
+      notify_alert_tooltip: 'Reciba una notificación del foro cuando haya nuevos hilos o publicaciones'
+      notify_email_tooltip: 'Recibir un correo electrónico cuando haya nuevos hilos o publicaciones'
     user:
       settings:
         heading: 'Seguir Tags'

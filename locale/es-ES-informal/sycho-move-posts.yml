@@ -8,10 +8,10 @@ sycho-move-posts:
       first_moved_tooltip: Movido
     modal:
       check: 'Comprobar tipo de operación'
-      destination: 'Discusión de destino'
-      new_discussion: 'Nueva Discusión'
+      destination: 'Hilo de destino'
+      new_discussion: 'Nuevo hilo'
       status:
-        simple_move: 'Será un movimiento simple, todos los mensajes se agregarán al final de la discusión.'
+        simple_move: 'Será un movimiento simple, todos los mensajes se agregarán al final del hilo.'
       submit: Proceder
     post:
       move: 'Seleccionar para mover'

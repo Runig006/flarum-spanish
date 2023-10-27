@@ -7,6 +7,6 @@ afrux-forum-stats-widget:
     widget:
       stats:
         comment_post_count: Mensajes
-        discussion_count: Discusiones
+        discussion_count: hilos
         user_count: Usuarios
       title: 'Estadísticas del Foro'

@@ -13,6 +13,6 @@ ianm-synopsis:
   forum:
     user:
       settings:
-        show-summaries: 'Mostrar un extracto para cada discusión dentro de la lista (Escritorio/Tabletas)'
-        show-summaries-mobile: 'Mostrar un extracto para cada discusión dentro de la lista (Móviles)'
+        show-summaries: 'Mostrar un extracto para cada hilo dentro de la lista (Escritorio/Tabletas)'
+        show-summaries-mobile: 'Mostrar un extracto para cada hilo dentro de la lista (Móviles)'
         summaries-heading: Sinopsis

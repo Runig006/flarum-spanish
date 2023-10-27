@@ -30,9 +30,9 @@ fof-user-directory:
   lib:
     sort:
       default: Predeterminado
-      least_discussions: 'Menos discusiones'
+      least_discussions: 'Menos hilos'
       least_posts: 'Menos publicaciones'
-      most_discussions: 'Más discusiones'
+      most_discussions: 'Más hilos'
       most_posts: 'Más publicaciones'
       newest: 'Más reciente'
       not_specified: 'Utilizar Flarum por defecto'

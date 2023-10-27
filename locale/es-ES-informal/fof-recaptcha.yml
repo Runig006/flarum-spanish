@@ -5,7 +5,7 @@
 fof-recaptcha:
   admin:
     permissions:
-      post_without_captcha: 'Crear posts y discusiones sin captcha'
+      post_without_captcha: 'Crear posts e hilos sin captcha'
     settings:
       help_text: 'Consigue tus credenciales de Google reCAPTCHA <a>aquí</a>.'
       secret_key_label: 'Clave Secreta'

@@ -15,7 +15,7 @@ flarum-ext-welcomebox:
     lastSeen: 'Última Visita'
     notregistered: 'Actualmente no estás registrado en este foro.'
     npost: '=> core.ref.posts'
-    tooltipDisclist: 'Mis discusiones'
+    tooltipDisclist: 'Mis hilos'
     tooltipMentions: Menciones
     tooltipProfile: Perfil
     wback: 'Bienvenido de nuevo,'

@@ -5,7 +5,7 @@
 flarum-sticky:
   admin:
     permissions:
-      sticky_discussions_label: 'Poner la chincheta a discusiones'
+      sticky_discussions_label: 'Poner la chincheta a hilos'
   forum:
     badge:
       sticky_tooltip: Chincheta
@@ -13,7 +13,7 @@ flarum-sticky:
       sticky_button: '=> flarum-sticky.ref.sticky'
       unsticky_button: 'Quitar la chincheta'
     post_stream:
-      discussion_stickied_text: '{username} puso la chincheta a la discusión.'
-      discussion_unstickied_text: '{username} quitó la chincheta a la discusión.'
+      discussion_stickied_text: '{username} puso la chincheta al hilo.'
+      discussion_unstickied_text: '{username} quitó la chincheta al hilo.'
   ref:
     sticky: 'Poner la chincheta'

@@ -141,8 +141,8 @@ v17development-flarum-support:
         title: 'Escribir un nuevo ticket'
       convert_to_ticket:
         button: 'Convertir en ticket'
-        confirm: '¿Estás seguro de que quieres convertir esta discusión en un ticket?'
-        event: 'La discusión {ticket_title} se ha convertido en un ticket'
+        confirm: '¿Estás seguro de que quieres convertir este hilo en un ticket?'
+        event: 'La hilo {ticket_title} se ha convertido en un ticket'
       fields:
         assignees:
           placeholder: 'El estado del ticket'

@@ -4,16 +4,16 @@
 
 justoverclock-related-discussions:
   admin:
-    DiscussionPageLayout: 'Mostrar discusiones en la parte inferior de las página'
-    relatedLimit: 'Nº de discusiones relacionadas (4 por defecto)'
-    relatedLimit-help: 'escribe aquí el número de discusiones que quieres ver (por ejemplo, 4)'
+    DiscussionPageLayout: 'Mostrar hilos en la parte inferior de las página'
+    relatedLimit: 'Nº de hilos relacionadas (4 por defecto)'
+    relatedLimit-help: 'escribe aquí el número de hilos que quieres ver (por ejemplo, 4)'
     relatedTitle: 'Título para "Related Discussions"'
-    relatedTitle-help: 'Reemplaza el título predeterminado para las discusiones relacionadas por el tuyo propio'
+    relatedTitle-help: 'Reemplaza el título predeterminado para los hilos relacionadas por el tuyo propio'
     showExcerpt: 'Mostrar extracto resumido'
   forum:
     hasBestAnswer: Resuelto
     participants: Participantes
     postedOn: 'el:'
     postnumber: 'Número de mensajes'
-    reldiscussion: 'Discusiones sugeridas:'
+    reldiscussion: 'Jilos sugeridas:'
     repliedOn: respondió

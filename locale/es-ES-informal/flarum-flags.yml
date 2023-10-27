@@ -20,7 +20,7 @@ flarum-flags:
       reason_inappropriate_text: 'Este mensaje es ofensivo, inapropiado o viola las <a>Normas del Foro</a>.'
       reason_missing_message: 'Proporciona algunos detalles para nuestros moderadores.'
       reason_off_topic_label: 'Fuera de tema'
-      reason_off_topic_text: 'Este mensaje no es relevante a la discusión.'
+      reason_off_topic_text: 'Este mensaje no es relevante al hilo.'
       reason_other_label: Otros
       reason_spam_label: Spam
       reason_spam_text: 'Este mensaje es un anuncio comercial.'

@@ -18,13 +18,13 @@ v17development-flarum-blog:
       categories_heading: Categorías
       default_article_image_label: 'Imagen del artículo por defecto'
       default_article_image_text: 'Seleccione una imagen de artículo por defecto para mostrar cuando no se haya establecido ninguna imagen.'
-      hide_on_discussion_list_label: 'No mostrar en la lista de discusión'
-      hide_on_discussion_list_text: 'Ocultar las entradas del blog de la lista de discusiones.'
+      hide_on_discussion_list_label: 'No mostrar en la lista de hilo'
+      hide_on_discussion_list_text: 'Ocultar las entradas del blog de la lista de hilos.'
       hide_tags_in_taglist_label: 'Ocultar etiquetas en la lista de etiquetas'
       hide_tags_in_taglist_text: 'Cuando está activada, esta extensión ocultará las etiquetas del blog de su página de inicio.'
       no_categories_selected: 'No hay categorías seleccionadas'
       redirect_articles_label: 'Redirigir los artículos del blog'
-      redirect_articles_text: 'Cuando se activa, esta extensión redirige las URLs de las discusiones originales a la URL de su blog.'
+      redirect_articles_text: 'Cuando se activa, esta extensión redirige las URLs de los hilos originales a la URL de su blog.'
       redirect_tags_label: 'Redirigir las etiquetas del blog'
       redirect_tags_text: 'Cuando está activada, esta extensión redirige las URL de las etiquetas del blog a la URL de la categoría del blog.'
       redirects_heading: Redirecciones

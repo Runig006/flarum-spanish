@@ -5,8 +5,8 @@
 the-turk-stickiest:
   admin:
     permissions:
-      super_sticky_discussions_label: 'Discusiones super chincheta'
-      tag_sticky_discussions_label: 'Discusiones super chincheta en etiquetas'
+      super_sticky_discussions_label: 'Hilos super chincheta'
+      tag_sticky_discussions_label: 'Hilos super chincheta en etiquetas'
     settings:
       badge_icon_label: 'Icono de super chincheta'
       badge_icon_text: '=> core.ref.icon_text'
@@ -23,9 +23,9 @@ the-turk-stickiest:
       tag_sticky_button: '=> the-turk-stickiest.ref.tag_sticky'
       unsticky_button: '=> flarum-sticky.forum.discussion_controls.unsticky_button'
     post_stream:
-      discussion_common_stickied_text: '{username} desmarcó la discusión como super chincheta.'
+      discussion_common_stickied_text: '{username} desmarcó el hilo como super chincheta.'
       discussion_stickied_text: '=> flarum-sticky.forum.post_stream.discussion_stickied_text'
-      discussion_super_stickied_text: '{username} marcó la discusión como super chincheta.'
+      discussion_super_stickied_text: '{username} marcó el hilo como super chincheta.'
       discussion_unstickied_text: '=> flarum-sticky.forum.post_stream.discussion_unstickied_text'
   ref:
     sticky: Chincheta

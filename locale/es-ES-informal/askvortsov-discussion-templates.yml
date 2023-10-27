@@ -5,4 +5,4 @@
 askvortsov-discussion-templates:
   admin:
     permissions:
-      manage_own_discussion_reply_templates: 'Gestionar plantillas de respuesta para sus discusiones'
+      manage_own_discussion_reply_templates: 'Gestionar plantillas de respuesta para sus hilos'

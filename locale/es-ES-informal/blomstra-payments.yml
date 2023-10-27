@@ -9,7 +9,7 @@ blomstra-payments:
       select-pta-product-description: "La selección de un producto permitirá el acceso al grupo tras el pago. En el caso de una suscripción, el acceso se revocará automáticamente tras la cancelación de la misma. Cree un producto en su panel de control de Stripe y copie el ID que comienza con <code>prod_</code> en este campo.\n"
     edit-tag:
       select-ptp-product: '(PPP) Producto requerido'
-      select-ptp-product-description: "La selección de un producto requerirá el pago de ese producto por cada discusión en esa etiqueta. El pago por publicación, por ejemplo, es ideal para los publirreportajes. Cree un producto con un precio único en su panel de control de Stripe y copie el ID que comienza con <code>prod_</code> en este campo.\n"
+      select-ptp-product-description: "La selección de un producto requerirá el pago de ese producto por cada hilo en esa etiqueta. El pago por publicación, por ejemplo, es ideal para los publirreportajes. Cree un producto con un precio único en su panel de control de Stripe y copie el ID que comienza con <code>prod_</code> en este campo.\n"
       select-ptv-product: '(PPV) Producto requerido'
       select-ptv-product-description: "La selección de un producto requerirá el pago de ese producto para obtener permanentemente el acceso a todos los puestos más allá del umbral... Cree un producto en su panel de control de Stripe y copie el ID que comienza con <code>prod_</code> en este campo.\n"
       visible-from: 'Ocultar los posts en este punto'
@@ -28,7 +28,7 @@ blomstra-payments:
     pay-to-post:
       purchase: 'Comprar para publicar'
       purchase-control: 'Pagar para publicar'
-      purchase_required: "Esta discusión se publicará una vez completado el pago a través de nuestro proveedor de pago Stripe. Haga clic en comprar para ver el coste y las opciones de pago.\n"
+      purchase_required: "Esta hilo se publicará una vez completado el pago a través de nuestro proveedor de pago Stripe. Haga clic en comprar para ver el coste y las opciones de pago.\n"
     pay-to-view:
       description: "Las publicaciones más allá de este punto están bloqueadas detrás de una pasarela de pago, puedes desbloquearlas completando el pago a través de nuestro proveedor de pagos Stripe.\n"
       purchase-completed: Desbloqueado

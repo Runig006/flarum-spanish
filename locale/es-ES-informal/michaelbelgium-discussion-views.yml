@@ -13,7 +13,7 @@ michaelbelgium-discussion-views:
       resetviews_button: 'Restablecer vistas'
     modal_resetviews:
       submit_button: 'Sí, eliminar todo'
-      title: 'Restablecer el recuento de visitas de discusión'
+      title: 'Restablecer el recuento de visitas de hilo'
     post:
       others_link: '=> core.ref.some_others'
       viewed_by: '{users} vieron esto.'
