@@ -71,6 +71,8 @@ v17development-flarum-blog:
       approve_article_approved: 'El artículo ha sido aprobado y publicado'
       pending_review: 'Este artículo está pendiente de revisión y aún no ha sido publicado'
       pending_review_title: 'Pendiente de revisión'
+      dissaprove_article: 'Poner en revisión el articulo'
+      approve_article_dissaproved: 'El artículo esta en revisión'
     tools:
       approve_article: 'Aprobar artículo'
       article_settings: 'Ajustes del artículo'
